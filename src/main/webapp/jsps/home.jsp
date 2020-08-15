@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Jijo</h1>
-<h1 align="center">For testin Nexus</h1>
+<h1 align="center">For testing pipeline script</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
